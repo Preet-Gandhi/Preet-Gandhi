@@ -1,3 +1,9 @@
+
+## Education & recognition
+
+**B.Tech, Computer Science & Engineering (AI/ML)** — BML Munjal University · **Minor:** Quantum Technology · **Dean's List:** Certificate of Excellence (2026)
+
+
 ## Focus areas
 
 <table>
@@ -29,8 +35,6 @@
     </td>
   </tr>
 </table>
-
-## Technical toolkit & research
 
 <table>
   <tr>
@@ -72,10 +76,6 @@
     </td>
   </tr>
 </table>
-
-## Education & recognition
-
-**B.Tech, Computer Science & Engineering (AI/ML)** — BML Munjal University · **Minor:** Quantum Technology · **Dean's List:** Certificate of Excellence (2026)
 
 ## GitHub activity
 
