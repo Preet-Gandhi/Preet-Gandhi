@@ -2,12 +2,43 @@
   <tr>
     <td width="57%" valign="top">
       <h2>About</h2>
-      <p>Based in India. Apart from my interests, I enjoy making random projects, diy, manga/manhwa/manhuas, web novels, and the list goes on. Also, video games, those are fun.  </p>
+      <p>Based in India. Apart from my interests, I enjoy making random projects, diy, manga/manhwa/manhuas, web novels, and the list goes on. Also, video games are fun.  </p>
     </td>
     <td width="43%" valign="top" align="center">
       <a href="https://github.com/Preet-Gandhi?tab=repositories">
         <img src="https://github-stats-extended.vercel.app/api?username=Preet-Gandhi&amp;include_all_commits=true&amp;show_icons=true&amp;rank_icon=default&amp;bg_color=F7F2E8&amp;border_color=DED5C3&amp;title_color=6F765B&amp;text_color=555247&amp;icon_color=8B9277&amp;ring_color=68705A&amp;custom_title=GitHub%20Activity" alt="GitHub activity statistics for Preet Gandhi, including total commits and a dynamic overall rank" width="100%" />
       </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="53%" valign="top">
+      <a name="toolkit"></a>
+      <h3>Technical toolkit</h3>
+      <p><strong>Programming</strong><br />
+        <img src="https://img.shields.io/badge/C-68705A?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/Rust-68705A?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/Python-68705A?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Java-68705A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+      </p>
+      <p><strong>Development</strong><br />Front-end development and web frameworks</p>
+      <p><strong>Systems</strong><br />
+        <img src="https://img.shields.io/badge/Linux-68705A?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" /><br />
+        Computer architecture fundamentals</p>
+      <p><strong>ML &amp; data</strong><br />Model experimentation · Data analysis · Remote sensing</p>
+      <p><strong>Quantum tooling</strong><br />
+        <img src="https://img.shields.io/badge/Qiskit-68705A?style=flat-square&amp;logo=qiskit&amp;logoColor=white" alt="Qiskit" />
+      </p>
+    </td>
+    <td width="47%" valign="top">
+      <a name="research"></a>
+      <h3>Research &amp; publications</h3>
+      <p><strong>Research directions</strong><br />Data science and trustworthy ML for remote sensing, especially spectral and geospatial consistency in satellite imagery; quantum technologies and hardware, including superconducting nanowire single-photon detectors (SNSPDs); and computer architecture.</p>
+      <p><strong>Publications &amp; preprints</strong><br />No publications or preprints listed yet.</p>
+      <a name="other-interests"></a>
+      <p><strong>Other interests</strong><br />Biotech is an exploratory interest; there is no public project to link yet.</p>
     </td>
   </tr>
 </table>
@@ -44,38 +75,8 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="53%" valign="top">
-      <a name="toolkit"></a>
-      <h3>Technical toolkit</h3>
-      <p><strong>Programming</strong><br />
-        <img src="https://img.shields.io/badge/C-68705A?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/Rust-68705A?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust" />
-        <img src="https://img.shields.io/badge/Python-68705A?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Java-68705A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-      </p>
-      <p><strong>Development</strong><br />Front-end development and web frameworks</p>
-      <p><strong>Systems</strong><br />
-        <img src="https://img.shields.io/badge/Linux-68705A?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" /><br />
-        Computer architecture fundamentals</p>
-      <p><strong>ML &amp; data</strong><br />Model experimentation · Data analysis · Remote sensing</p>
-      <p><strong>Quantum tooling</strong><br />
-        <img src="https://img.shields.io/badge/Qiskit-68705A?style=flat-square&amp;logo=qiskit&amp;logoColor=white" alt="Qiskit" />
-      </p>
-    </td>
-    <td width="47%" valign="top">
-      <a name="research"></a>
-      <h3>Research &amp; publications</h3>
-      <p><strong>Research directions</strong><br />Data science and trustworthy ML for remote sensing, especially spectral and geospatial consistency in satellite imagery; quantum technologies and hardware, including superconducting nanowire single-photon detectors (SNSPDs); and computer architecture.</p>
-      <p><strong>Publications &amp; preprints</strong><br />No publications or preprints listed yet.</p>
-      <a name="other-interests"></a>
-      <p><strong>Other interests</strong><br />Biotech is an exploratory interest; there is no public project to link yet.</p>
-    </td>
-  </tr>
-</table>
 
-## Selected work
+## My work
 
 <table>
   <tr>
