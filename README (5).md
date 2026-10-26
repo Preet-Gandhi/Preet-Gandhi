@@ -17,7 +17,6 @@
 <table>
   <tr>
     <td width="57%" valign="top">
-      <p>Hey there! I'm based in India.</p>
       <p>Apart from my research interests, I like making random projects, DIY, reading <strong>manga / manhwa / manhua</strong> and <strong>web novels</strong>, and the list goes on.<br />
       Also, video games are fun. 🎮</p>
     </td>
