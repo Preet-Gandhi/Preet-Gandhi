@@ -17,8 +17,8 @@
 <table>
   <tr>
     <td width="20%" valign="top">
-      <strong>AI/ML &amp;<br />remote sensing</strong><br /><br />
-      Trustworthy satellite-image super-resolution.<br /><br />
+      <strong>AI/ML<br /></strong><br />
+      <br /> Trustworthy satellite-image super-resolution.<br /><br />
       <a href="https://github.com/Preet-Gandhi/TerraForge---Deep-Learning-for-Satellite-Image-Super-Resolution">TerraForge ↗</a>
     </td>
     <td width="20%" valign="top">
@@ -60,7 +60,6 @@
         <img src="https://img.shields.io/badge/Linux-68705A?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" /><br />
         Computer architecture fundamentals</p>
       <p><strong>ML &amp; data</strong><br />Model experimentation · Data analysis · Remote sensing</p>
-      <p><strong>Algorithms &amp; simulation</strong><br />A* path planning · Auction-based task allocation · Time-indexed reservations · Vertex/edge conflict checks · Deadlock recovery</p>
       <p><strong>Quantum tooling</strong><br />
         <img src="https://img.shields.io/badge/Qiskit-68705A?style=flat-square&amp;logo=qiskit&amp;logoColor=white" alt="Qiskit" />
       </p>
