@@ -5,40 +5,35 @@
 
 **AI/ML · Quantum Computing · Computer Architecture · Robotics**
 
-*Exploring intelligence, computation, and the hardware behind them.*
+*Exploring intelligent systems, quantum technologies, and computing hardware.*
 
 </div>
 
 ---
 
-### About Me
-
-- CSE student specializing in AI/ML
-- Exploring quantum computing and quantum technologies
-- Interested in chip architecture, digital logic, and robotics
-- Building projects across software, AI, and intelligent systems
+### Interests
+AI/ML · Quantum Computing · Chip Architecture · Robotics
 
 ### Languages & Tools
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,rust,python,java&theme=dark" />
-</p>
+### Selected Projects
+- **[TerraForge](YOUR_REPO_LINK)** — Satellite image super-resolution
+- **[ACE](YOUR_REPO_LINK)** — Multi-agent robotics and collision avoidance
+- **[ChameleonBG](YOUR_REPO_LINK)** — Browser background customization
 
-**Quantum:** Qiskit · Quantum Information
-
-**Web:** 
-<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
-
-### Featured Projects
-
-- **TerraForge** — Satellite image super-resolution
-- **ACE** — Multi-agent robotics and collision avoidance
-- **ChameleonBG** — Custom browser backgrounds
+### Research & Publications
+- **Research interests:** Quantum technologies, AI/ML, and computer architecture
+- **Publications:** No publications listed yet.
 
 ---
 
 <div align="center">
 
-*Understand the hardware. Build the intelligence. Explore what's next.*
+*Learn · Research · Build*
 
 </div>
