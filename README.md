@@ -144,7 +144,7 @@
   </tr>
 </table>
 
-**🏆 Recognition:** Dean’s List — Certificate of Excellence (2026)
+**🏆 Recognition:** Dean’s List - Certificate of Excellence (2026)
 
 <br />
 
