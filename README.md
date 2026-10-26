@@ -2,13 +2,12 @@
   <tr>
     <td width="57%" valign="top">
       <h2>About</h2>
-      <p>I’m studying Computer Science (AI/ML) at BML Munjal University and Data Science through IIT Madras’s BS in Data Science and Applications programme. I enjoy building and testing systems—from Sentinel-2 satellite-image super-resolution to multi-agent robotics—and digging into what makes them reliable. I’m also drawn to quantum technologies and computer architecture, especially where algorithms meet hardware.</p>
+      <p>Based in India. Apart from my interests, I enjoy making random projects, diy, manga/manhwa/manhuas, web novels, and the list goes on. Also, video games, those are fun.  </p>
     </td>
     <td width="43%" valign="top" align="center">
       <a href="https://github.com/Preet-Gandhi?tab=repositories">
         <img src="https://github-stats-extended.vercel.app/api?username=Preet-Gandhi&amp;include_all_commits=true&amp;show_icons=true&amp;rank_icon=default&amp;bg_color=F7F2E8&amp;border_color=DED5C3&amp;title_color=6F765B&amp;text_color=555247&amp;icon_color=8B9277&amp;ring_color=68705A&amp;custom_title=GitHub%20Activity" alt="GitHub activity statistics for Preet Gandhi, including total commits and a dynamic overall rank" width="100%" />
       </a>
-      <p><sub>Rank is a third-party estimate based on GitHub activity, not an official GitHub rating.</sub></p>
     </td>
   </tr>
 </table>
