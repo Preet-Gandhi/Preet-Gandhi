@@ -48,7 +48,7 @@
         <img src="https://skillicons.dev/icons?i=linux,bash,git,github&amp;theme=light" alt="Linux, Bash, Git, GitHub" /><br />
         Computer architecture fundamentals</p>
       <p><strong>ML &amp; data</strong><br />
-        <img src="assets/ml-icons.svg" alt="PyTorch, TensorFlow, scikit-learn, NumPy, pandas, OpenCV" /><br />
+        <img src="ml-icons.svg" alt="PyTorch, TensorFlow, scikit-learn, NumPy, pandas, OpenCV" /><br />
         Model experimentation · Data analysis · Remote sensing</p>
       <p><strong>Quantum tooling</strong><br />
         <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&amp;logo=qiskit&amp;logoColor=white" alt="Qiskit" />
