@@ -79,7 +79,7 @@
   <tr>
     <td width="20%" valign="top" align="center">
       <strong>🧠 AI/ML</strong><br /><br />
-      <img src="assets/terraforge-sr.png" alt="Low-resolution satellite tile next to a sharper super-resolved tile" width="100%" /><br /><br />
+      <img src="terraforge-sr.png" alt="Low-resolution satellite tile next to a sharper super-resolved tile" width="100%" /><br /><br />
       Trustworthy satellite-image super-resolution.<br /><br />
       <a href="https://github.com/Preet-Gandhi/TerraForge---Deep-Learning-for-Satellite-Image-Super-Resolution">TerraForge ↗</a>
     </td>
