@@ -64,7 +64,7 @@
       <a name="other-interests"></a>
       <p><strong>Other interests</strong><br />Biotech is an exploratory interest 🧬 (just curious for now, no public project to link yet).</p>
       <p>
-        <a href="https://YOUR-SITE.example/research"><img src="https://img.shields.io/badge/Read_more_about_my_research-→-047857?style=for-the-badge" alt="Read more about my research" /></a>
+        <a href="https://preet-gandhi.github.io/research-and-publications/"><img src="https://img.shields.io/badge/Read_more_about_my_research-→-047857?style=for-the-badge" alt="Read more about my research" /></a>
       </p>
     </td>
   </tr>
